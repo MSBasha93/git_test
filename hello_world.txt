@@ -1,1 +1,2 @@
 some changes!
+testing change the core.editor config
